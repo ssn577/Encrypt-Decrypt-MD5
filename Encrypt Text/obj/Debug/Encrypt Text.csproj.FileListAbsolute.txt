@@ -1,0 +1,13 @@
+C:\Users\shali\Desktop\Encrypt Text\Encrypt Text\Encrypt Text\bin\Debug\Encrypt Text.exe.config
+C:\Users\shali\Desktop\Encrypt Text\Encrypt Text\Encrypt Text\bin\Debug\Encrypt Text.exe
+C:\Users\shali\Desktop\Encrypt Text\Encrypt Text\Encrypt Text\bin\Debug\Encrypt Text.pdb
+C:\Users\shali\Desktop\Encrypt Text\Encrypt Text\Encrypt Text\obj\Debug\Encrypt Text.csproj.AssemblyReference.cache
+C:\Users\shali\Desktop\Encrypt Text\Encrypt Text\Encrypt Text\obj\Debug\Encrypt_Text.frmEncrypt.resources
+C:\Users\shali\Desktop\Encrypt Text\Encrypt Text\Encrypt Text\obj\Debug\Encrypt_Text.Properties.Resources.resources
+C:\Users\shali\Desktop\Encrypt Text\Encrypt Text\Encrypt Text\obj\Debug\Encrypt Text.csproj.GenerateResource.cache
+C:\Users\shali\Desktop\Encrypt Text\Encrypt Text\Encrypt Text\obj\Debug\Encrypt Text.csproj.CoreCompileInputs.cache
+C:\Users\shali\Desktop\Encrypt Text\Encrypt Text\Encrypt Text\obj\Debug\Encrypt Text.exe
+C:\Users\shali\Desktop\Encrypt Text\Encrypt Text\Encrypt Text\obj\Debug\Encrypt Text.pdb
+C:\Users\shali\Desktop\Encrypt Text\Encrypt Text\Encrypt Text\bin\Debug\fa-IR\Encrypt Text.resources.dll
+C:\Users\shali\Desktop\Encrypt Text\Encrypt Text\Encrypt Text\obj\Debug\Encrypt_Text.frmEncrypt.fa-IR.resources
+C:\Users\shali\Desktop\Encrypt Text\Encrypt Text\Encrypt Text\obj\Debug\fa-IR\Encrypt Text.resources.dll
